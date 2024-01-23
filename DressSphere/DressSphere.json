@@ -1,0 +1,9 @@
+{
+    "Author": "RooKell",
+    "Name": "DressSphere",
+    "Punchline": "A short one-liner that shows up in /xlplugins.",
+    "Description": "A WoW-style collections tab to keep track of gear sets across dungeons and raids. List any major slash-command(s): /dresssphere",
+    "ApplicableVersion": "any",
+    "Tags": [
+    ]
+}
